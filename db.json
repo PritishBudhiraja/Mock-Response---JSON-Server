@@ -1,0 +1,156 @@
+{
+  "questions": [
+    {
+      "questionId": 1,
+      "question": "Which of these best describes an array?",
+      "category": "Arrays",
+      "mcq1": "A data structure that shows a hierarchical behavior",
+      "mcq2": "Container of objects of similar types",
+      "mcq3": "Arrays are immutable once initialised",
+      "mcq4": "Array is not a data structure",
+      "mcq5": "None of these."
+    },
+    {
+      "questionId": 2,
+      "question": "How do you initialize an array in C?",
+      "category": "Arrays",
+      "mcq1": "int arr[3] = (1,2,3);",
+      "mcq2": "int arr(3) = {1,2,3};",
+      "mcq3": "int arr[3] = {1,2,3};",
+      "mcq4": "int arr(3) = (1,2,3);",
+      "mcq5": "None of these."
+    },
+    {
+      "questionId": 3,
+      "question": "What are the disadvantages of arrays?",
+      "category": "Arrays",
+      "mcq1": "Data structure like queue or stack cannot be implemented",
+      "mcq2": "There are chances of wastage of memory space if elements inserted in an array are lesser than the allocated size",
+      "mcq3": "Index value of an array can be negative",
+      "mcq4": "Elements are sequentially accessed",
+      "mcq5": "None of these."
+    },
+    {
+      "questionId": 4,
+      "question": "In general, the index of the first element in an array is __________",
+      "category": "Arrays",
+      "mcq1": "0",
+      "mcq2": "-1",
+      "mcq3": "2",
+      "mcq4": "1",
+      "mcq5": "None of these."
+    },
+    {
+      "questionId": 5,
+      "question": "Elements in an array are accessed ______",
+      "category": "Arrays",
+      "mcq1": "randomly",
+      "mcq2": "sequentially",
+      "mcq3": "exponentially",
+      "mcq4": "logarithmically",
+      "mcq5": "None of these."
+    },
+    {
+      "questionId": 6,
+      "question": "Assuming int is of 4bytes, what is the size of int arr[15];?",
+      "category": "Arrays",
+      "mcq1": "15",
+      "mcq2": "19",
+      "mcq3": "11",
+      "mcq4": "60",
+      "mcq5": "None of these."
+    },
+    {
+      "questionId": 7,
+      "question": "Which of the following concepts make extensive use of arrays?",
+      "category": "Arrays",
+      "mcq1": " Binary trees",
+      "mcq2": "Scheduling of processes",
+      "mcq3": "Caching",
+      "mcq4": "Spatial locality0",
+      "mcq5": "None of these."
+    },
+    {
+      "questionId": 8,
+      "question": "'OS' computer abbreviation usually means?",
+      "category": "CS Fundamentals",
+      "mcq1": " Order of Significance",
+      "mcq2": "Open Software",
+      "mcq3": "Operating System",
+      "mcq4": "Optical Sensor",
+      "mcq5": "None of these."
+    },
+    {
+      "questionId": 9,
+      "question": "What is part of a database that holds only one type of information?",
+      "category": "CS Fundamentals",
+      "mcq1": "Report",
+      "mcq2": "Field",
+      "mcq3": "Record",
+      "mcq4": "File",
+      "mcq5": "None of these."
+    },
+    {
+      "questionId": 10,
+      "question": "DB' computer abbreviation usually means?",
+      "category": "CS Fundamentals",
+      "mcq1": "Database",
+      "mcq2": "Double Byte",
+      "mcq3": "Data Block",
+      "mcq4": "Driver Boot",
+      "mcq5": "None of these."
+    }
+  ],
+  "answers": [
+    {
+      "answerId": 1,
+      "correctAns": "mcq2",
+      "questionId": 1
+    },
+    {
+      "answerId": 2,
+      "correctAns": "mcq3",
+      "questionId": 2
+    },
+    {
+      "answerId": 3,
+      "correctAns": "mcq2",
+      "questionId": 3
+    },
+    {
+      "answerId": 4,
+      "correctAns": "mcq1",
+      "questionId": 4
+    },
+    {
+      "answerId": 5,
+      "correctAns": "mcq2",
+      "questionId": 5
+    },
+    {
+      "answerId": 6,
+      "correctAns": "mcq4",
+      "questionId": 6
+    },
+    {
+      "answerId": 7,
+      "correctAns": "mcq4",
+      "questionId": 7
+    },
+    {
+      "answerId": 8,
+      "correctAns": "mcq3",
+      "questionId": 8
+    },
+    {
+      "answerId": 9,
+      "correctAns": "mcq2",
+      "questionId": 9
+    },
+    {
+      "answerId": 10,
+      "correctAns": "mcq1",
+      "questionId": 10
+    }
+  ]
+}
